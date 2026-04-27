@@ -1,0 +1,32 @@
+[
+    {
+        "amount": 150000,
+        "is_international": 1,
+        "hour": 12,
+        "device_new": 0
+    },
+    {
+        "amount": 15000000,
+        "is_international": 1,
+        "hour": 3,
+        "device_new": 1
+    },
+    {
+        "amount": 15000000,
+        "is_international": 1,
+        "hour": 3,
+        "device_new": 1
+    },
+    {
+        "amount": 167000000,
+        "is_international": 1,
+        "hour": 3,
+        "device_new": 1
+    },
+    {
+        "amount": 19000000,
+        "is_international": 1,
+        "hour": 5,
+        "device_new": 1
+    }
+]
